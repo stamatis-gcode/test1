@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ADDMdsddsdsORE</title>
+    <title>ADDMORE</title>
     <link rel='stylesheet'
         href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.1/css/bootstrap.min.css' />
 </head>
@@ -16,7 +16,7 @@
             <div class="col-lg-10 mx-auto">
                 <div class="card shadow">
                     <div class="card-header">
-                        <h4>Add items</h4>
+                        <h4>Add hgjhghjghjitems</h4>
                     </div>
                     <div class="card-boy p-4">
                         <div id="show_alert"></div>
@@ -38,7 +38,7 @@
                                             placeholder="item quantity" required>
                                     </div>
                                     <div class="col-md-2 mb-3 d-grid">
-                                        <button class="btn btn-success add_item_btn">Add more</button>
+                                        <button class="btn btn-success add_item_btn">Addgytguy more</button>
                                     </div>
                                 </div>
 
